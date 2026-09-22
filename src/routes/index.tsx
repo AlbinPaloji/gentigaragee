@@ -7,7 +7,7 @@ import polishImage from "../assets/genti-polish.jpg";
 import waterImage from "../assets/genti-water.jpg";
 import interiorImage from "../assets/genti-interior.jpg";
 import ctaImage from "../assets/genti-cta.jpg";
-import logoAsset from "../assets/gentigarage-logo.png.asset.json";
+import logoAsset from "../assets/gentigarage-logo.png";
 
 export const Route = createFileRoute("/")({
   head: () => ({
